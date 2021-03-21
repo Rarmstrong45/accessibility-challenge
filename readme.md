@@ -24,19 +24,19 @@ Header Section
 Hero Section
 <br>
 <br>
-![Hero Section](./assets/Images/Capture-hero-section.jpg)
+![Hero Section](./assets/Images/Capture-hero-section.JPG)
 <br>
 <br>
 Benifits Section
 <br>
 <br>
-![Benifits Section](./assets/Images/capture-benifits.jpg)
+![Benifits Section](./assets/Images/capture-benifits.JPG)
 <br>
 <br>
 Footer Section
 <br>
 <br>
-![Footer Section](./assets/Images/Capture-footer.jpg)
+![Footer Section](./assets/Images/Capture-footer.JPG)
 <br>
 <br>
 
